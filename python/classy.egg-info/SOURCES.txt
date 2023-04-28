@@ -1,0 +1,7 @@
+README
+setup.py
+/Users/stefan/Documents/research/Majoron/class_majoron_ncdm-2.10.1/python/../python/classy.pyx
+classy.egg-info/PKG-INFO
+classy.egg-info/SOURCES.txt
+classy.egg-info/dependency_links.txt
+classy.egg-info/top_level.txt
