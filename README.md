@@ -1,9 +1,9 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2305.xxxxx-B31B1B.svg)](http://arxiv.org/abs/2305.xxxxx) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![arXiv](https://img.shields.io/badge/arXiv-2305.01692-B31B1B.svg)](http://arxiv.org/abs/2305.01692) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 CLASS with neutrinos interacting with eV scale bosons
 -----------------------------------
 
-Calculates the cosmic evolution of a joined eV scale boson - neutrino system as described in [arXiv:2305.xxxxx](http://arxiv.org/abs/2305.xxxxx).
+Calculates the cosmic evolution of a joined eV scale boson - neutrino system as described in [arXiv:2305.01692](http://arxiv.org/abs/2305.01692).
 
 ## Installation
 
@@ -71,7 +71,7 @@ We define some shared constants to change from natural units to class units.
 
 ## Citation
 
-If you use the code, please link this repository, and cite [arXiv:2305.xxxxx](http://arxiv.org/abs/2305.xxxxx).
+If you use the code, please link this repository, and cite [arXiv:2305.01692](http://arxiv.org/abs/2305.01692).
 
 ## Contact
 
